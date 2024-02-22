@@ -11,7 +11,7 @@ python main.py --file dosya.txt --words 3
 ```
 
 - `dosya.txt`: Türkçe metnin bulunduğu dosyanın yolu.
-- `--words 3`: Metin özetlendikten sonra dönüşte bulunacak önemli kelime sayısı.
+- `3`: Metin özetlendikten sonra yazdırılacak önemli kelime sayısı.
 
 ## Gereksinimler
 
